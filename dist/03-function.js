@@ -1,5 +1,5 @@
 "use strict";
-var getFullName = function (name, surename) {
-    return name + ' ' + surename;
-};
-console.log(getFullName('Moster', 'Lessons'));
+// const getFullName = (name: string, surename: string): string => {
+// 	return name + ' ' + surename
+// }
+// console.log(getFullName('Moster', 'Lessons'))

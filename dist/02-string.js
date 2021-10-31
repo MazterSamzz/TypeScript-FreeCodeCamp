@@ -1,3 +1,3 @@
 "use strict";
-var hello = 'world';
-hello = 'foo';
+// let hello: string = 'world'
+// hello = 'foo'
